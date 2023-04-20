@@ -6,7 +6,7 @@ import { Observable, Subscription, firstValueFrom, lastValueFrom, map } from 'rx
 
 //you should not be doing this 
 const WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
-const WEATHER_API_KEY = "d4aea52bfe8c4d52d3aab135e13a663a"
+const WEATHER_API_KEY = "_YOUR_API_KEY_HERE_"
 
 @Component({
   selector: 'app-root',
